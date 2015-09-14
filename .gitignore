@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+.hgignore
+build/*
+doc/*
+.hg/*
